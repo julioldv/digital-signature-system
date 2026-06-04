@@ -1,4 +1,4 @@
-# Digital Document Signature and Verification System
+# Digital Signature System
 
 Academic web application developed to manage PDF documents, cryptographic key pairs, and digital signatures.
 
@@ -16,7 +16,7 @@ The goal of the project was to apply web development, database design, authentic
 * Digital signature creation and verification
 * Document integrity verification using hashes
 * Signature tracking by user and document
-* Basic dashboard and protected views
+* Protected views for authenticated users
 
 ## Technologies
 
@@ -33,7 +33,7 @@ The goal of the project was to apply web development, database design, authentic
 * Building a web application using the MVC pattern
 * Managing authentication and protected routes
 * Designing relational database tables for users, documents, keys, and signatures
-* Handling file uploads and downloads securely
+* Handling file uploads and downloads
 * Applying digital signature and hash verification concepts
 * Organizing controllers, models, migrations, and views in Laravel
 
